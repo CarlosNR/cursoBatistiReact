@@ -1,0 +1,18 @@
+/* classes com - n funcionam, tipo: este-exemplo */
+/* embora no css isso funcione, no react ele interpreta como subtração */
+.fraseContainer {
+    background-color: #333;
+    border: 1px solid #111;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.fraseContent{
+    color: rgb(189, 189, 189);
+    background-color: #333;
+    margin: 0;
+    text-align: justify;
+    margin: 5px;
+}
+
